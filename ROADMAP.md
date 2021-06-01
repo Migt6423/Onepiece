@@ -1,0 +1,10 @@
+- [ ] Arreglar el CSS de la HomePage
+- [ ] Hacer el CSS de la **PokeCard**
+- [ ] Hacer el _fetch_ del Pokemon vía **params**
+- [ ] Feature de **favorites**
+  - [ ] Agregar favorites
+  - [ ] Eliminar favorites
+- [ ] _Drawer_ de **favorites**
+- [ ] Feature de **¡Azar!**
+- [ ] Subir app a **Vercel**
+- [ ] Descargar los recursos para usarlos locales
